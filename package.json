@@ -9,11 +9,13 @@
     "start:task02": "node src/tasks/task002.js",
     "start:task03": "node src/tasks/task003.js",
     "start:task04": "node src/tasks/task004.js",
+    "start:task05": "node src/tasks/task005.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "immutable": "^4.0.0-rc.12"
+    "immutable": "^4.0.0-rc.12",
+    "lodash": "^4.17.20"
   }
 }
