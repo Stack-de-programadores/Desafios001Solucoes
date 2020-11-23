@@ -8,6 +8,7 @@
     "start:task01": "node src/tasks/task001.js",
     "start:task02": "node src/tasks/task002.js",
     "start:task03": "node src/tasks/task003.js",
+    "start:task04": "node src/tasks/task004.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
